@@ -24,6 +24,6 @@ python api_extractor.py
 - 大文件警告​​：特别大的文件可能会慢点  
 - 结果仅供参考​​：建议人工复核一下  
 
-### 💡建议打包成exe使用
+### ✨建议打包成exe使用
 ### 🔗项目地址：https://github.com/YueNanWangZi/api_extractor
 ### 💡自用小脚本，欢迎提issue！
