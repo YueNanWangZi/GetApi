@@ -25,7 +25,5 @@ python api_extractor.py
 - 结果仅供参考​​：建议人工复核一下  
 
 ### 💡建议打包成exe使用
-### 💡自用脚本，欢迎提issue！
-
 ### 🔗项目地址：https://github.com/YueNanWangZi/api_extractor
-
+### 💡自用小脚本，欢迎提issue！
