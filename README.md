@@ -1,4 +1,4 @@
-# api_extractor-API路径提取小助手 🛠️  
+# api_extractor：API路径提取小助手 🛠️  
 一个超实用的可视化小工具，专门用来从代码文件中批量提取API路径。  
 
 ## 这能干啥？  
